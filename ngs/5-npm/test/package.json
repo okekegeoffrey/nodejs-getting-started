@@ -1,0 +1,12 @@
+{
+    "name": "npm-test",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "^4.17.1",
+        "goeffrey-frame-print": "^1.0.0",
+        "lodash": "^4.17.21"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.14"
+    }
+}
